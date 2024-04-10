@@ -1,0 +1,36 @@
+@import url(""https://fonts.googleapis.com/css2?family=Crimson+Pro:ital,wght@0,200..900;1,200..900&family=Handlee&display=swap);
+
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/banner.css");
+@import url("components/button.css");
+@import url("components/card.css");
+@import url("components/bannerbutton.css");
+
+
+body {
+	font-family: "Crimson Pro", serif;
+	font-size: 20px;
+	margin: 0px auto;
+	background-color: #D0BDAE;
+	color: white;
+	
+
+}
+
+h1,h2,h3 {
+	font-family: "Handlee", cursive;
+	font-weight: bold;
+	color: white;
+}
+
+a{
+	text-decoration: none;
+	transition: color 0.3s ease;
+
+}
+a:hover {
+	color: blanchedalmond;
+}
+
+img
